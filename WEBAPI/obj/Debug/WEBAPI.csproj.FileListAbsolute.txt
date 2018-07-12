@@ -1,0 +1,11 @@
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\WEBAPI.exe.config
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\WEBAPI.exe
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\WEBAPI.pdb
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Debug\Newtonsoft.Json.xml
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\obj\Debug\WEBAPI.csprojResolveAssemblyReference.cache
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\obj\Debug\WEBAPI.exe
+c:\users\shmuels\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\obj\Debug\WEBAPI.pdb
